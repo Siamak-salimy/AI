@@ -7,7 +7,6 @@
 **Why it matters:** AI boosts efficiency in healthcare, finance, education, and more, but raises ethical questions about bias, privacy, and job impacts.  
 
 Certainly! Below is an expanded and structured explanation of **Artificial Intelligence (AI)**, its subfields, applications, and implications:
-
 ---
 ### **Artificial Intelligence (AI): An In-Depth Overview**
 AI refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require cognitive functions like learning, reasoning, problem-solving, perception, and decision-making. AI systems are designed to adapt, improve, and execute tasks autonomously or with minimal human intervention.
