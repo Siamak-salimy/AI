@@ -11,7 +11,6 @@ Certainly! Below is an expanded and structured explanation of **Artificial Intel
 ### **Artificial Intelligence (AI): An In-Depth Overview**
 AI refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require cognitive functions like learning, reasoning, problem-solving, perception, and decision-making. AI systems are designed to adapt, improve, and execute tasks autonomously or with minimal human intervention.
 ---
-
 ## **1. Core Subfields of AI**
 ### **(1) Machine Learning (ML)**
    - **Definition**: Algorithms that allow systems to learn patterns from data without explicit programming.  
