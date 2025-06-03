@@ -18,7 +18,6 @@ AI refers to the simulation of human intelligence in machines, enabling them to 
      - **Unsupervised Learning**: Finds hidden patterns in unlabeled data (e.g., customer segmentation).  
      - **Reinforcement Learning**: Learns via trial-and-error feedback (e.g., game-playing AI like AlphaGo).  
    - **Applications**: Fraud detection, recommendation systems (Netflix/Amazon), predictive maintenance.  
-
 ### **(2) Deep Learning (DL)**
    - **Definition**: A subset of ML using artificial neural networks (inspired by the human brain) to process complex data.  
    - **Key Architectures**:
