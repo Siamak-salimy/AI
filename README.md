@@ -25,7 +25,6 @@ AI refers to the simulation of human intelligence in machines, enabling them to 
      - **RNNs/LSTMs (Recurrent Networks)**: For sequential data (e.g., speech recognition, time-series forecasting).  
      - **Transformers**: Power NLP tasks (e.g., GPT, BERT).  
    - **Applications**: Self-driving cars, medical imaging, real-time translation.  
-
 ### **(3) Natural Language Processing (NLP)**
    - **Definition**: Enables machines to understand, interpret, and generate human language.  
    - **Key Tasks**:
