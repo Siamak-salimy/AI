@@ -47,7 +47,6 @@ AI refers to the simulation of human intelligence in machines, enabling them to 
      - Medical diagnosis (X-ray analysis).  
      - Surveillance (anomaly detection).  
      - Augmented Reality (AR filters on Instagram/Snapchat).  
-
 ---
 
 ## **2. Why AI Matters: Transformative Impact**
