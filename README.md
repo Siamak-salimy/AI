@@ -63,7 +63,6 @@ AI refers to the simulation of human intelligence in machines, enabling them to 
 - **Privacy Concerns**: Mass surveillance, data misuse (e.g., facial recognition controversies).  
 - **Job Disruption**: Automation may replace repetitive tasks but could create new roles (e.g., AI trainers).  
 - **Accountability**: Who is responsible for AI errors (e.g., self-driving car accidents)?  
-
 ---
 
 ## **3. The Future of AI**
