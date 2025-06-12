@@ -39,7 +39,6 @@ AI refers to the simulation of human intelligence in machines, enabling them to 
      - **Service Robots**: Vacuum cleaners (Roomba), delivery drones.  
      - **Autonomous Vehicles**: Tesla’s Autopilot, Waymo.  
    - **Key Tech**: Computer vision, sensor fusion, real-time decision-making.  
-
 ### **(5) Computer Vision**
    - **Definition**: Trains machines to interpret visual data (images/videos).  
    - **Applications**:  
